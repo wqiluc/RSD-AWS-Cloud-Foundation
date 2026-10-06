@@ -2,24 +2,22 @@
 <img src="./img/aws.jpg" alt="Logo AWS" width="550"></h1>
 
 <p align="justify">
-Este repositório reúne as anotações da atividade assíncrona do curso <strong>AWS Academy Cloud Foundations</strong>. O objetivo da atividade é consolidar, de forma escrita e organizada, os conceitos fundamentais de computação em nuvem estudados em cada módulo — desde os modelos de serviço e implantação, passando pelas vantagens da nuvem e pela introdução à Amazon Web Services, até o AWS Cloud Adoption Framework (AWS CAF). Registrar o conteúdo seção por seção, acompanhado dos slides de apoio, ajuda a fixar o aprendizado, cria um material de revisão para a certificação <strong>AWS Certified Cloud Practitioner</strong> e serve como referência rápida para consultas futuras.
+<i>Este repositório reúne as anotações da atividade assíncrona do curso <strong>AWS Academy Cloud Foundations</strong>. O objetivo da atividade é consolidar, de forma escrita e organizada, os conceitos fundamentais de computação em nuvem estudados em cada módulo — desde os modelos de serviço e implantação, passando pelas vantagens da nuvem e pela introdução à Amazon Web Services, até o AWS Cloud Adoption Framework (AWS CAF). Registrar o conteúdo seção por seção, acompanhado dos slides de apoio, ajuda a fixar o aprendizado, cria um material de revisão para a certificação <strong>AWS Certified Cloud Practitioner</strong> e serve como referência rápida para consultas futuras.</i>
 </p>
 
 <h2 align="center" id="tecnologias"> ⛏️💻 Tecnologias Utilizadas: <br>
-<img src="https://img.shields.io/badge/Stack-111827?style=flat&logo=files&logoColor=FF9900" height="22"/>
-</h2>
+<img src="https://img.shields.io/badge/Tech_Stack-111827?style=for-the-badge&logo=stackshare&logoColor=white" alt="Tecnologias Badge"/></h2>
+
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="40"/></a> <br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="32" height="32" alt="VS Code"/> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="40"/></a>  <br>
   <img src="https://img.shields.io/badge/AWS-Academy-111827?style=flat-square&labelColor=FF9900"/>
   <img src="https://img.shields.io/badge/AWS-Cloud_Foundations-111827?style=flat-square&labelColor=FF9900"/>
   <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-111827?style=flat-square&labelColor=FF9900"/>
   <img src="https://img.shields.io/badge/AWS-CAF-111827?style=flat-square&labelColor=FF9900"/> <br>
-  <img src="https://img.shields.io/badge/-Markdown-111827?style=flat-square&logo=markdown&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-HTML_no_README-111827?style=flat-square&logo=html5&logoColor=E34F26"/>
-  <img src="https://img.shields.io/badge/-Shields.io-111827?style=flat-square&logo=shieldsdotio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-VS_Code-111827?style=flat-square&logo=vscodium&logoColor=2F80ED"/> <br>
+  <img src="https://img.shields.io/badge/-Markdown-111827?style=flat-square&logo=markdown&logoColor=white"/> <br>
   <img src="https://img.shields.io/badge/-Git-111827?style=flat-square&logo=git&logoColor=F05032"/>
-  <img src="https://img.shields.io/badge/-GitHub-111827?style=flat-square&logo=github&logoColor=white"/> <br>
+  <img src="https://img.shields.io/badge/-GitHub-111827?style=flat-square&logo=github&logoColor=white"/>
+   <img src="https://img.shields.io/badge/-GitHub_Desktop-111827?style=flat-square&logo=github&logoColor=purple"/>
 </p>
 
 <h2 align="center" id="arquitetura">🏰 Arquitetura do Repositório <br>
@@ -33,14 +31,22 @@ RSD-AWS-Cloud-Foundation☁️/
 │   ├── Seção 3 - Introdução à Amazon Web Services (AWS).md <img src="https://img.shields.io/badge/-Anotação-111827?style=flat&logo=markdown&logoColor=white" height="18"/> <img src="https://img.shields.io/badge/-Console_·_CLI_·_SDK-111827?style=flat&logo=instructure&logoColor=FF9900" height="18"/>
 │   ├── Seção 4 - Mudança para a Nuvem AWS – AWS Cloud Adoption Framework (AWS CAF).md <img src="https://img.shields.io/badge/-Anotação-111827?style=flat&logo=markdown&logoColor=white" height="18"/> <img src="https://img.shields.io/badge/-6_perspectivas_do_CAF-111827?style=flat&logo=instructure&logoColor=FF9900" height="18"/>
 │   └── Seção 5 - Conclusão do Módulo 1.md <img src="https://img.shields.io/badge/-Anotação-111827?style=flat&logo=markdown&logoColor=white" height="18"/> <img src="https://img.shields.io/badge/-Questão_de_exame-111827?style=flat&logo=instructure&logoColor=FF9900" height="18"/>
-├── MÓDULO 2 <img src="https://img.shields.io/badge/Módulo_2-Em_breve-111827?style=flat-square&labelColor=6B7280" height="18"/>/
+├── MÓDULO 2 <img src="https://img.shields.io/badge/Módulo_2-Economia_e_faturamento_da_nuvem-111827?style=flat-square&labelColor=FF9900" height="18"/>/
+│   ├── Seção 1 - Fundamentos da definição de preço.md <img src="https://img.shields.io/badge/-Anotação-111827?style=flat&logo=markdown&logoColor=white" height="18"/> <img src="https://img.shields.io/badge/-Computação_·_Armazenamento_·_Dados-111827?style=flat&logo=instructure&logoColor=FF9900" height="18"/>
+│   ├── Seção 2 - Custo total de propriedade.md <img src="https://img.shields.io/badge/-Anotação-111827?style=flat&logo=markdown&logoColor=white" height="18"/> <img src="https://img.shields.io/badge/-TCO-111827?style=flat&logo=instructure&logoColor=FF9900" height="18"/>
+│   ├── Seção 3 - AWS Organizations.md <img src="https://img.shields.io/badge/-Anotação-111827?style=flat&logo=markdown&logoColor=white" height="18"/> <img src="https://img.shields.io/badge/-Contas_·_OUs_·_SCPs-111827?style=flat&logo=instructure&logoColor=FF9900" height="18"/>
+│   ├── Seção 4 - AWS Billing and Cost Management.md <img src="https://img.shields.io/badge/-Anotação-111827?style=flat&logo=markdown&logoColor=white" height="18"/> <img src="https://img.shields.io/badge/-Cost_Explorer_·_Budgets-111827?style=flat&logo=instructure&logoColor=FF9900" height="18"/>
+│   ├── Seção 5 - Suporte Técnico.md <img src="https://img.shields.io/badge/-Anotação-111827?style=flat&logo=markdown&logoColor=white" height="18"/> <img src="https://img.shields.io/badge/-4_planos_de_suporte-111827?style=flat&logo=instructure&logoColor=FF9900" height="18"/>
+│   ├── Seção 6 - Conclusão do Módulo 2.md <img src="https://img.shields.io/badge/-Anotação-111827?style=flat&logo=markdown&logoColor=white" height="18"/> <img src="https://img.shields.io/badge/-Questão_de_exame-111827?style=flat&logo=instructure&logoColor=FF9900" height="18"/>
+│   ├── Seção Bônus - Atividade: Calculadora Mensal.md <img src="https://img.shields.io/badge/-Atividade-111827?style=flat&logo=googlesheets&logoColor=34A853" height="18"/> <img src="https://img.shields.io/badge/-Calculadora_Mensal-111827?style=flat&logo=instructure&logoColor=FF9900" height="18"/>
+│   └── Seção Bônus2 - Demonstração - Painel de cobrança.md <img src="https://img.shields.io/badge/-Demonstração-111827?style=flat&logo=youtube&logoColor=FF0000" height="18"/> <img src="https://img.shields.io/badge/-Painel_de_faturamento-111827?style=flat&logo=instructure&logoColor=FF9900" height="18"/>
 ├── MÓDULO 3 <img src="https://img.shields.io/badge/Módulo_3-Em_breve-111827?style=flat-square&labelColor=6B7280" height="18"/>/
 ├── MÓDULO 4 <img src="https://img.shields.io/badge/Módulo_4-Em_breve-111827?style=flat-square&labelColor=6B7280" height="18"/>/
 ├── MÓDULO 5 <img src="https://img.shields.io/badge/Módulo_5-Em_breve-111827?style=flat-square&labelColor=6B7280" height="18"/>/
 │
 ├── img <img src="https://img.shields.io/badge/-Slides_e_imagens-111827?style=flat-square&logo=googlephotos&logoColor=4285F4" height="18"/>/
 │   ├── aws.jpg <img src="https://img.shields.io/badge/-Logo-111827?style=flat&logo=googlephotos&logoColor=4285F4" height="18"/>
-│   └── secaoN-*.png <img src="https://img.shields.io/badge/-Slides_por_seção_(1–5)-111827?style=flat&logo=googlephotos&logoColor=4285F4" height="18"/>
+│   └── mN-secaoN-*.png <img src="https://img.shields.io/badge/-Slides_por_módulo_e_seção-111827?style=flat&logo=googlephotos&logoColor=4285F4" height="18"/>
 │
 └── README.md <img src="https://img.shields.io/badge/-Markdown-111827?style=flat&logo=markdown&logoColor=white" height="18"/>
 </pre>
