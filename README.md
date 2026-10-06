@@ -40,7 +40,10 @@ RSD-AWS-Cloud-Foundation☁️/
 │   ├── Seção 6 - Conclusão do Módulo 2.md <img src="https://img.shields.io/badge/-Anotação-111827?style=flat&logo=markdown&logoColor=white" height="18"/> <img src="https://img.shields.io/badge/-Questão_de_exame-111827?style=flat&logo=instructure&logoColor=FF9900" height="18"/>
 │   ├── Seção Bônus - Atividade: Calculadora Mensal.md <img src="https://img.shields.io/badge/-Atividade-111827?style=flat&logo=googlesheets&logoColor=34A853" height="18"/> <img src="https://img.shields.io/badge/-Calculadora_Mensal-111827?style=flat&logo=instructure&logoColor=FF9900" height="18"/>
 │   └── Seção Bônus2 - Demonstração - Painel de cobrança.md <img src="https://img.shields.io/badge/-Demonstração-111827?style=flat&logo=youtube&logoColor=FF0000" height="18"/> <img src="https://img.shields.io/badge/-Painel_de_faturamento-111827?style=flat&logo=instructure&logoColor=FF9900" height="18"/>
-├── MÓDULO 3 <img src="https://img.shields.io/badge/Módulo_3-Em_breve-111827?style=flat-square&labelColor=6B7280" height="18"/>/
+├── MÓDULO 3 <img src="https://img.shields.io/badge/Módulo_3-Visão_geral_da_infraestrutura_global_da_AWS-111827?style=flat-square&labelColor=FF9900" height="18"/>/
+│   ├── Seção 1 - Infraestrutura global da AWS.md <img src="https://img.shields.io/badge/-Anotação-111827?style=flat&logo=markdown&logoColor=white" height="18"/> <img src="https://img.shields.io/badge/-Regiões_·_AZs_·_Edge-111827?style=flat&logo=instructure&logoColor=FF9900" height="18"/>
+│   ├── Seção 2 - Visão geral dos serviços e das categorias de serviços da AWS.md <img src="https://img.shields.io/badge/-Anotação-111827?style=flat&logo=markdown&logoColor=white" height="18"/> <img src="https://img.shields.io/badge/-Categorias_de_serviços-111827?style=flat&logo=instructure&logoColor=FF9900" height="18"/>
+│   └── Seção 3 - Conclusão do Módulo 3.md <img src="https://img.shields.io/badge/-Anotação-111827?style=flat&logo=markdown&logoColor=white" height="18"/> <img src="https://img.shields.io/badge/-Questão_de_exame-111827?style=flat&logo=instructure&logoColor=FF9900" height="18"/>
 ├── MÓDULO 4 <img src="https://img.shields.io/badge/Módulo_4-Em_breve-111827?style=flat-square&labelColor=6B7280" height="18"/>/
 ├── MÓDULO 5 <img src="https://img.shields.io/badge/Módulo_5-Em_breve-111827?style=flat-square&labelColor=6B7280" height="18"/>/
 │
