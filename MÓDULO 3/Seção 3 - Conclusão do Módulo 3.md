@@ -11,7 +11,8 @@
 
 <p align="center">
   <a href="../README.md">🏠 Início</a> &nbsp;•&nbsp;
-  <a href="./Seção%202%20-%20Visão%20geral%20dos%20serviços%20e%20das%20categorias%20de%20serviços%20da%20AWS.md">⬅️ Anterior: Serviços e categorias da AWS</a>
+  <a href="./Seção%202%20-%20Visão%20geral%20dos%20serviços%20e%20das%20categorias%20de%20serviços%20da%20AWS.md">⬅️ Anterior: Serviços e categorias da AWS</a> &nbsp;•&nbsp;
+  <a href="../MÓDULO%204/Seção%201%20-%20Modelo%20de%20responsabilidade%20compartilhada%20da%20AWS.md">Próximo módulo: Modelo de responsabilidade compartilhada ➡️</a>
 </p>
 
 ![Módulo 3, Seção 3: Conclusão do módulo](../img/m3-secao3-capa.png)
@@ -98,5 +99,6 @@ Isso retoma a [Seção 1](./Seção%201%20-%20Infraestrutura%20global%20da%20AWS
 
 <p align="center">
   <a href="../README.md">🏠 Início</a> &nbsp;•&nbsp;
-  <a href="./Seção%202%20-%20Visão%20geral%20dos%20serviços%20e%20das%20categorias%20de%20serviços%20da%20AWS.md">⬅️ Anterior: Serviços e categorias da AWS</a>
+  <a href="./Seção%202%20-%20Visão%20geral%20dos%20serviços%20e%20das%20categorias%20de%20serviços%20da%20AWS.md">⬅️ Anterior: Serviços e categorias da AWS</a> &nbsp;•&nbsp;
+  <a href="../MÓDULO%204/Seção%201%20-%20Modelo%20de%20responsabilidade%20compartilhada%20da%20AWS.md">Próximo módulo: Modelo de responsabilidade compartilhada ➡️</a>
 </p>
